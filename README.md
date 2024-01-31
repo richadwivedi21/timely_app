@@ -1,2 +1,2 @@
 # Timely-clone
-This particular project is the clone of Timely  website which provides the service to the companies for managing their time and scheduling their work.
+This particular project is the clone of Timely  website which provides the service to the companies for managing their time and scheduling their work.It is a digital platform designed to assist individuals, teams, or organizations in efficiently managing their time and tasks. It typically offer a range of features to streamline the scheduling process, enhance collaboration, and optimize productivity.
